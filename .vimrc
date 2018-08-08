@@ -1,0 +1,13 @@
+set autoindent
+set expandtab
+set shiftround
+set shiftwidth=4
+set smarttab
+set tabstop=4
+set incsearch
+set smartcase
+set encoding=utf-8
+set ruler
+set noerrorbells
+set background=dark
+set t_Co=256
